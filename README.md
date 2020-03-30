@@ -125,4 +125,4 @@ Para version 4 se creo una clase pantalla que acumula los metodos y atributos qu
 
 ### Diagrama de Clases
 
-![diag2](https://github.com/Sebastian-MG/Demo-Personajes-V4/blob/master/uml4.jpg)
+![diag2](https://github.com/Sebastian-MG/Demo-Personajes-V4/blob/master/Class4.1.png)
